@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://rebrand.ly/githubprof"><img title="github" src="https://img.shields.io/badge/lucifer-shakti-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src=""></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-LUCIFER%20GREYHAT-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
