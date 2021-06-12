@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCIFERGREYHAT1&layout=compact"></a>
 </p>
