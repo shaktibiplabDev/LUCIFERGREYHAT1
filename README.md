@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </p>--->
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="github" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Logo.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&tbnid=e1XU10nrfC6bRM&vet=12ahUKEwi_u4GXrpHxAhVj53MBHXRvCm8QMygBegUIARCxAQ..i&docid=H8p6HHzcTglWAM&w=800&h=209&q=github%20logo%20source%20link&hl=en&ved=2ahUKEwi_u4GXrpHxAhVj53MBHXRvCm8QMygBegUIARCxAQ"></a>
+<a href="https://rebrand.ly/githubprof"><img title="github" src="https://img.shields.io/badge/lucifer-shakti-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src=""></a>
 </p>
 
