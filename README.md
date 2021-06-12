@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src=""></a>
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/telegram-LUCIFER%20GREYHAT-lightblue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src=""></a>
 <a href="https://rebrand.ly/insgrm"><img title="Instagram" src=""></a>
 <p align="center">
