@@ -11,23 +11,23 @@ You can click the Preview link to take a look at your changes.
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com">
+<a href="https://rebrand.ly/mpap152">
   <img align="left" alt="SHAKTI| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/__empty254__/">
+<a href="https://rebrand.ly/dol0vrz">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/evildevill">
+<a href="https://rebrand.ly/60tpale">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
-<a href="https://wa.me/+923137119351">
+<a href="https://rebrand.ly/etphw4l">
   <img align="left" alt="whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg" />
 </a>
 <br/>
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 16 years old Self-taught developer, technical support engineer , Graphics Designer from INDIA.
+### I'm 16 years old Self-taught developer, Ethical hacker , Technical geek from INDIA.
 
 <br/>
 
