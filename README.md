@@ -21,14 +21,14 @@ You can click the Preview link to take a look at your changes.
 </p>--->
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="github" src="https://img.shields.io/badge/lucifer-shakti-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-LUCIFER%20GREYHAT-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/60tpale"><img title="github" src="https://img.shields.io/badge/lucifer-shakti-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/pgelex5"><img title="YouTube" src="https://img.shields.io/badge/YouTube-LUCIFER%20GREYHAT-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
 <a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/telegram-LUCIFER%20GREYHAT-lightblue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-shakti-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/instagram-shakti-pink?style=for-the-badge&logo=instagram"></a>
+<a href="https://rebrand.ly/dol0vrz"><img title="Instagram" src="https://img.shields.io/badge/instagram-shakti-pink?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <!---<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
 <a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
