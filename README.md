@@ -6,8 +6,10 @@ You can click the Preview link to take a look at your changes.
 ## Hey, Geek 😎
 ![Capture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqh70DzxUIwh08dpOzmZmCxm0t44h1q3xug&usqp=CAU)
 
-<h2>Hi, I'm SHAKTI BIPLAB! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hi, I'm SHAKTI BIPLAB! 
+  
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 <a href="https://twitter.com">
   <img align="left" alt="SHAKTI| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
