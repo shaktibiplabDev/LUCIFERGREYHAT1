@@ -36,13 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<a href="https://github.com/evildevill">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-LUCIFERGREYHAT1&show_icons=true" alt="SHAKTI GitHub Stats" />
-</a>
-
-<br />
-
 *************
 
 <br />
@@ -62,7 +55,7 @@ LUCIFERGREYHAT1&show_icons=true" alt="SHAKTI GitHub Stats" />
 
 ***********************************
 
-#### AND MORE-🙏🏼
+#### AND MORE 🙏🏼
 
 <!--- <p align="center"><img src="MY VIDEO GIF HERE" alt="Bt">--->
 
