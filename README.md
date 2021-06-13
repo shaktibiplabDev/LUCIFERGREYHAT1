@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://rebrand.ly/mpap152"><img title="Telegram" src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/etphw4l"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://rebrand.ly/dol0vrz"><img title="Instagram" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/LUCIFERGREYHAT1/ultimate"><img title="ULTIMATE" src="https://github-readme-stats.vercel.app/api/pin/?username=LUCIFERGREYHAT1&repo=ultimate&theme=radical"></a>
@@ -87,5 +87,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCIFERGREYHAT1&layout=compact"></a>
+<a href="https://github.com/LUCIFERGREYHAT1"><img title="LUCIFERGREYHAT1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCIFERGREYHAT1&layout=compact"></a>
 </p>
