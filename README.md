@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 16 years old Self-taught developer, Ethical hacker , Technical geek from INDIA.
+### I'm 18 years old ,  Artificial Intelligence and Machine Learning Student (BTech 1st year) , Web Developer (part time) , Technical geek from INDIA.
 
 <br/>
 
